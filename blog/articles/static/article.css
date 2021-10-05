@@ -1,0 +1,83 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #ffffff;
+}
+
+.archive_body .header img {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.archive_body .post-title a {
+    color: #ffffff;
+}
+
+.article-author {
+    width: 50%;
+    float: left;
+}
+
+.article-created-date {
+    text-align: right;
+}
+
+.header a {
+    color: #ffffff;
+}
+
+.article .header {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article .header a {
+    float: right;
+    margin-top: 50px;
+}
+
+
+.article .header img {
+    width: 100px;
+    margin-left: -14px;
+}
+
+.create_post{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.create_post input[type=text]{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.create_post textarea{
+    width: 100%;
+    margin-top: 10px;
+    height: 400px;
+}
+
+.create_post input[type=submit]{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+}
+
+input{
+    box-sizing:border-box;
+}
+
+textarea{
+    box-sizing:border-box;
+}
